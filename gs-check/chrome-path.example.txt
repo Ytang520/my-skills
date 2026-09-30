@@ -1,0 +1,7 @@
+# Copy this file to chrome-path.txt in this folder.
+# chrome-path.txt is local. Do not commit it.
+# The skill reads the first non-empty, non-comment line.
+# Examples:
+# Windows: C:\Program Files\Google\Chrome\Application\chrome.exe
+# macOS: /Applications/Google Chrome.app
+# Linux: google-chrome

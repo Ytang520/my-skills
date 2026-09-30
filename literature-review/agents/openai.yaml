@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Literature Review"
+  short_description: "Plan and run a staged AI literature review"
+  default_prompt: "Use $literature-review to create a reviewable plan for an AI literature review."
